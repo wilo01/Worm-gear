@@ -1,0 +1,2 @@
+﻿"Module"= 4mm'Modół
+"Number of Teeth"= 40'Liczba zębów

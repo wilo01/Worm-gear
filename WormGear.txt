@@ -1,0 +1,3 @@
+﻿"Module"= 1.75mm'Modół
+"Number of Teeth"= 18'Liczba zębów
+"angle"= 8'Kąt nachylenia zębów
